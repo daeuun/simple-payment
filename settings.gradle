@@ -1,3 +1,5 @@
-rootProject.name = 'SimplePay'
+rootProject.name = 'simple-pay'
 include 'membership-service'
+include 'banking-service'
+include 'common'
 
